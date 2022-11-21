@@ -1,8 +1,8 @@
 # Vehicle_Sales_ETL_demo
 Databricks notebook project demo of etl process in python and pyspark 
 
-To view the DataBricks notebook download the HTML file and open it in browser.
-Screenshot of the notebook is also provided.
+To view the DataBricks notebook download the HTML file and open it in browser oc chek the code in the .py file.
+PDF visualization of the notebook is also provided.
 
 Requirementns:
 This code is executed in Databricks Notebook, SparkSession is automaticly imported and builded.
